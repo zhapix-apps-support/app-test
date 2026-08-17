@@ -1,0 +1,29 @@
+{
+  "id": "./",
+  "name": "DIO App",
+  "short_name": "DIO",
+  "description": "Digital Interaction Organizer (DIO) is a web application that helps users manage and organize their digital interactions, goals, and contacts efficiently.",
+  "start_url": "./",
+  "scope": "./",
+  "lang": "en",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "orientation": "portrait",
+  "categories": ["productivity", "business"],
+  "background_color": "#0a1929",
+  "theme_color": "#132f4c",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
